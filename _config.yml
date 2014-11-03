@@ -87,15 +87,9 @@ members:
         url: http://twitter.com/handle
     
 # Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+clients: #暫時關閉
+ # - name: dribbble
+ #   img: client01.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "一邊努力充實前端知識，一邊想煮好吃的食物。"
