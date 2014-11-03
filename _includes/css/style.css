@@ -302,11 +302,11 @@ a:focus {
     background: url(../img/t-back.jpg) no-repeat center top;
     position: relative;
     margin-top: 0px;
-	padding-top:60px;
+	padding-top:20px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 450px;
+	min-height: 150px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -323,7 +323,6 @@ a:focus {
 #twrap i {
 	font-size: 50px;
 	color: white;
-	margin-bottom: 25px;
 }
 
 #twrap p {
